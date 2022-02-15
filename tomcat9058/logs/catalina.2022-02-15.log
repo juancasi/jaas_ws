@@ -1,0 +1,213 @@
+15-Feb-2022 07:14:15.054 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.58
+15-Feb-2022 07:14:15.056 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 15 2022 14:37:38 UTC
+15-Feb-2022 07:14:15.056 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.58.0
+15-Feb-2022 07:14:15.056 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+15-Feb-2022 07:14:15.056 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.13.0-28-generic
+15-Feb-2022 07:14:15.056 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Feb-2022 07:14:15.056 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-11-openjdk-amd64
+15-Feb-2022 07:14:15.057 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.13+8-Ubuntu-0ubuntu1.21.10
+15-Feb-2022 07:14:15.057 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Ubuntu
+15-Feb-2022 07:14:15.057 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /media/jacs/SEAGATE/dev/tomcat9058
+15-Feb-2022 07:14:15.057 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /media/jacs/SEAGATE/dev/tomcat9058
+15-Feb-2022 07:14:15.063 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+15-Feb-2022 07:14:15.063 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+15-Feb-2022 07:14:15.063 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+15-Feb-2022 07:14:15.063 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+15-Feb-2022 07:14:15.063 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-Feb-2022 07:14:15.063 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/media/jacs/SEAGATE/dev/tomcat9058/conf/logging.properties
+15-Feb-2022 07:14:15.064 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Feb-2022 07:14:15.064 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.security.auth.login.config=/media/jacs/SEAGATE/dev/tomcat9058/conf/jaas.config
+15-Feb-2022 07:14:15.064 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+15-Feb-2022 07:14:15.064 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.security.auth.login.config=/media/jacs/SEAGATE/dev/tomcat9058/conf/jaas.config
+15-Feb-2022 07:14:15.064 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+15-Feb-2022 07:14:15.064 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+15-Feb-2022 07:14:15.064 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+15-Feb-2022 07:14:15.064 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/media/jacs/SEAGATE/dev/tomcat9058
+15-Feb-2022 07:14:15.064 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/media/jacs/SEAGATE/dev/tomcat9058
+15-Feb-2022 07:14:15.065 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/media/jacs/SEAGATE/dev/tomcat9058/temp
+15-Feb-2022 07:14:15.066 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/local/cuda-11.4/lib64::/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+15-Feb-2022 07:14:15.228 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Feb-2022 07:14:15.241 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [298] milliseconds
+15-Feb-2022 07:14:15.274 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Feb-2022 07:14:15.274 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.58]
+15-Feb-2022 07:14:15.285 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio0.war]
+15-Feb-2022 07:14:16.774 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 07:14:18.162 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio0.war] has finished in [2,877] ms
+15-Feb-2022 07:14:18.162 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/jaas.war]
+15-Feb-2022 07:14:18.316 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 07:14:18.318 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/jaas.war] has finished in [156] ms
+15-Feb-2022 07:14:18.318 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/media/jacs/SEAGATE/dev/tomcat9058/webapps/docs]
+15-Feb-2022 07:14:18.448 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 07:14:18.450 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/media/jacs/SEAGATE/dev/tomcat9058/webapps/docs] has finished in [132] ms
+15-Feb-2022 07:14:18.450 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/media/jacs/SEAGATE/dev/tomcat9058/webapps/examples]
+15-Feb-2022 07:14:18.809 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 07:14:18.847 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/media/jacs/SEAGATE/dev/tomcat9058/webapps/examples] has finished in [397] ms
+15-Feb-2022 07:14:18.847 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/media/jacs/SEAGATE/dev/tomcat9058/webapps/host-manager]
+15-Feb-2022 07:14:18.982 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 07:14:18.985 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/media/jacs/SEAGATE/dev/tomcat9058/webapps/host-manager] has finished in [138] ms
+15-Feb-2022 07:14:18.985 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/media/jacs/SEAGATE/dev/tomcat9058/webapps/manager]
+15-Feb-2022 07:14:19.120 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 07:14:19.122 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/media/jacs/SEAGATE/dev/tomcat9058/webapps/manager] has finished in [137] ms
+15-Feb-2022 07:14:19.122 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/media/jacs/SEAGATE/dev/tomcat9058/webapps/ROOT]
+15-Feb-2022 07:14:19.257 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 07:14:19.259 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/media/jacs/SEAGATE/dev/tomcat9058/webapps/ROOT] has finished in [136] ms
+15-Feb-2022 07:14:19.261 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Feb-2022 07:14:19.266 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4025] milliseconds
+15-Feb-2022 07:14:38.853 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/jaas]
+15-Feb-2022 07:14:38.863 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/jaas.war]
+15-Feb-2022 07:14:39.039 INFO [http-nio-8080-exec-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 07:14:39.041 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/jaas.war] has finished in [178] ms
+15-Feb-2022 07:15:38.648 INFO [http-nio-8080-exec-6] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio1.war]
+15-Feb-2022 07:15:38.824 INFO [http-nio-8080-exec-6] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 07:15:38.826 INFO [http-nio-8080-exec-6] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio1.war] has finished in [178] ms
+15-Feb-2022 07:25:16.168 INFO [http-nio-8080-exec-13] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/comercio1]
+15-Feb-2022 07:25:16.182 INFO [http-nio-8080-exec-13] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio1.war]
+15-Feb-2022 07:25:16.348 INFO [http-nio-8080-exec-13] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 07:25:16.350 INFO [http-nio-8080-exec-13] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio1.war] has finished in [168] ms
+15-Feb-2022 07:26:11.950 INFO [http-nio-8080-exec-14] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/comercio1]
+15-Feb-2022 07:26:11.962 INFO [http-nio-8080-exec-14] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio1.war]
+15-Feb-2022 07:26:12.139 INFO [http-nio-8080-exec-14] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 07:26:12.141 INFO [http-nio-8080-exec-14] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio1.war] has finished in [179] ms
+15-Feb-2022 07:44:01.467 INFO [http-nio-8080-exec-27] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/comercio1]
+15-Feb-2022 07:44:01.478 INFO [http-nio-8080-exec-27] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio1.war]
+15-Feb-2022 07:44:02.300 INFO [http-nio-8080-exec-27] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 07:44:03.515 INFO [http-nio-8080-exec-27] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio1.war] has finished in [2,037] ms
+15-Feb-2022 07:59:25.621 INFO [http-nio-8080-exec-40] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/comercio1]
+15-Feb-2022 07:59:25.645 INFO [http-nio-8080-exec-40] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio1.war]
+15-Feb-2022 07:59:26.462 INFO [http-nio-8080-exec-40] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 07:59:27.656 WARNING [http-nio-8080-exec-40] org.glassfish.jersey.internal.Errors.logErrors The following warnings have been detected: WARNING: The (sub)resource method add in org.software.ws.category.CategoryService contains empty path annotation.
+WARNING: The (sub)resource method getAll in org.software.ws.category.CategoryService contains empty path annotation.
+
+15-Feb-2022 07:59:27.662 INFO [http-nio-8080-exec-40] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio1.war] has finished in [2,016] ms
+15-Feb-2022 08:00:03.846 SEVERE [http-nio-8080-exec-39] org.glassfish.jersey.message.internal.WriterInterceptorExecutor$TerminalWriterInterceptor.aroundWriteTo MessageBodyWriter not found for media type=application/json, type=class org.software.ws.category.CategoryList, genericType=class org.software.ws.category.CategoryList.
+15-Feb-2022 08:03:57.861 INFO [http-nio-8080-exec-47] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/comercio1]
+15-Feb-2022 08:03:57.887 INFO [http-nio-8080-exec-47] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio1.war]
+15-Feb-2022 08:03:58.930 INFO [http-nio-8080-exec-47] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 08:04:00.168 WARNING [http-nio-8080-exec-47] org.glassfish.jersey.internal.Errors.logErrors The following warnings have been detected: WARNING: The (sub)resource method add in org.software.ws.category.CategoryService contains empty path annotation.
+WARNING: The (sub)resource method getAll in org.software.ws.category.CategoryService contains empty path annotation.
+
+15-Feb-2022 08:04:00.173 INFO [http-nio-8080-exec-47] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio1.war] has finished in [2,286] ms
+15-Feb-2022 08:30:48.047 INFO [http-nio-8080-exec-63] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/comercio1]
+15-Feb-2022 08:30:48.072 INFO [http-nio-8080-exec-63] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio1.war]
+15-Feb-2022 08:30:49.187 INFO [http-nio-8080-exec-63] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 08:30:50.442 WARNING [http-nio-8080-exec-63] org.glassfish.jersey.internal.Errors.logErrors The following warnings have been detected: WARNING: The (sub)resource method add in org.software.ws.category.CategoryService contains empty path annotation.
+WARNING: The (sub)resource method getAll in org.software.ws.category.CategoryService contains empty path annotation.
+
+15-Feb-2022 08:30:50.446 INFO [http-nio-8080-exec-63] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio1.war] has finished in [2,375] ms
+15-Feb-2022 09:37:36.647 INFO [http-nio-8080-exec-68] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio2.war]
+15-Feb-2022 09:37:36.805 INFO [http-nio-8080-exec-68] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 09:37:36.807 INFO [http-nio-8080-exec-68] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio2.war] has finished in [160] ms
+15-Feb-2022 09:53:57.510 INFO [http-nio-8080-exec-68] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/comercio2]
+15-Feb-2022 09:53:57.519 INFO [http-nio-8080-exec-68] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio2.war]
+15-Feb-2022 09:53:57.694 INFO [http-nio-8080-exec-68] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 09:53:57.696 INFO [http-nio-8080-exec-68] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio2.war] has finished in [177] ms
+15-Feb-2022 09:54:43.344 SEVERE [http-nio-8080-exec-71] org.apache.catalina.realm.JAASRealm.authenticate Unexpected error
+	javax.security.auth.login.LoginException: No LoginModules configured for comercio2
+		at java.base/javax.security.auth.login.LoginContext.init(LoginContext.java:261)
+		at java.base/javax.security.auth.login.LoginContext.<init>(LoginContext.java:501)
+		at org.apache.catalina.realm.JAASRealm.authenticate(JAASRealm.java:405)
+		at org.apache.catalina.realm.JAASRealm.authenticate(JAASRealm.java:337)
+		at org.apache.catalina.authenticator.FormAuthenticator.doAuthenticate(FormAuthenticator.java:244)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:624)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:687)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:359)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1735)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:829)
+15-Feb-2022 09:58:47.984 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+15-Feb-2022 09:58:47.985 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Feb-2022 09:58:47.985 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+15-Feb-2022 09:58:48.029 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Feb-2022 09:58:48.038 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+15-Feb-2022 09:58:51.905 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.58
+15-Feb-2022 09:58:51.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 15 2022 14:37:38 UTC
+15-Feb-2022 09:58:51.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.58.0
+15-Feb-2022 09:58:51.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+15-Feb-2022 09:58:51.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.13.0-28-generic
+15-Feb-2022 09:58:51.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Feb-2022 09:58:51.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-11-openjdk-amd64
+15-Feb-2022 09:58:51.908 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.13+8-Ubuntu-0ubuntu1.21.10
+15-Feb-2022 09:58:51.908 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Ubuntu
+15-Feb-2022 09:58:51.908 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /media/jacs/SEAGATE/dev/tomcat9058
+15-Feb-2022 09:58:51.908 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /media/jacs/SEAGATE/dev/tomcat9058
+15-Feb-2022 09:58:51.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+15-Feb-2022 09:58:51.914 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+15-Feb-2022 09:58:51.914 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+15-Feb-2022 09:58:51.914 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+15-Feb-2022 09:58:51.914 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-Feb-2022 09:58:51.914 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/media/jacs/SEAGATE/dev/tomcat9058/conf/logging.properties
+15-Feb-2022 09:58:51.914 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Feb-2022 09:58:51.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.security.auth.login.config=/media/jacs/SEAGATE/dev/tomcat9058/conf/jaas.config
+15-Feb-2022 09:58:51.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+15-Feb-2022 09:58:51.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.security.auth.login.config=/media/jacs/SEAGATE/dev/tomcat9058/conf/jaas.config
+15-Feb-2022 09:58:51.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+15-Feb-2022 09:58:51.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+15-Feb-2022 09:58:51.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+15-Feb-2022 09:58:51.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/media/jacs/SEAGATE/dev/tomcat9058
+15-Feb-2022 09:58:51.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/media/jacs/SEAGATE/dev/tomcat9058
+15-Feb-2022 09:58:51.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/media/jacs/SEAGATE/dev/tomcat9058/temp
+15-Feb-2022 09:58:51.916 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/local/cuda-11.4/lib64::/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+15-Feb-2022 09:58:52.084 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Feb-2022 09:58:52.097 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [299] milliseconds
+15-Feb-2022 09:58:52.130 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Feb-2022 09:58:52.130 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.58]
+15-Feb-2022 09:58:52.142 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio0.war]
+15-Feb-2022 09:58:53.682 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 09:58:55.084 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio0.war] has finished in [2,942] ms
+15-Feb-2022 09:58:55.086 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio1.war]
+15-Feb-2022 09:58:56.102 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 09:58:57.385 WARNING [main] org.glassfish.jersey.internal.Errors.logErrors The following warnings have been detected: WARNING: The (sub)resource method add in org.software.ws.category.CategoryService contains empty path annotation.
+WARNING: The (sub)resource method getAll in org.software.ws.category.CategoryService contains empty path annotation.
+
+15-Feb-2022 09:58:57.390 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio1.war] has finished in [2,304] ms
+15-Feb-2022 09:58:57.391 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio2.war]
+15-Feb-2022 09:58:57.543 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 09:58:57.549 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio2.war] has finished in [158] ms
+15-Feb-2022 09:58:57.550 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/jaas.war]
+15-Feb-2022 09:58:57.701 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 09:58:57.703 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/jaas.war] has finished in [153] ms
+15-Feb-2022 09:58:57.704 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/media/jacs/SEAGATE/dev/tomcat9058/webapps/docs]
+15-Feb-2022 09:58:57.831 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 09:58:57.833 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/media/jacs/SEAGATE/dev/tomcat9058/webapps/docs] has finished in [129] ms
+15-Feb-2022 09:58:57.833 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/media/jacs/SEAGATE/dev/tomcat9058/webapps/examples]
+15-Feb-2022 09:58:58.172 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 09:58:58.205 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/media/jacs/SEAGATE/dev/tomcat9058/webapps/examples] has finished in [371] ms
+15-Feb-2022 09:58:58.205 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/media/jacs/SEAGATE/dev/tomcat9058/webapps/host-manager]
+15-Feb-2022 09:58:58.338 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 09:58:58.341 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/media/jacs/SEAGATE/dev/tomcat9058/webapps/host-manager] has finished in [135] ms
+15-Feb-2022 09:58:58.341 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/media/jacs/SEAGATE/dev/tomcat9058/webapps/manager]
+15-Feb-2022 09:58:58.474 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 09:58:58.476 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/media/jacs/SEAGATE/dev/tomcat9058/webapps/manager] has finished in [135] ms
+15-Feb-2022 09:58:58.476 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/media/jacs/SEAGATE/dev/tomcat9058/webapps/ROOT]
+15-Feb-2022 09:58:58.603 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 09:58:58.604 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/media/jacs/SEAGATE/dev/tomcat9058/webapps/ROOT] has finished in [128] ms
+15-Feb-2022 09:58:58.607 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Feb-2022 09:58:58.613 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [6515] milliseconds
+15-Feb-2022 10:14:45.451 INFO [http-nio-8080-exec-5] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/comercio2]
+15-Feb-2022 10:14:45.466 INFO [http-nio-8080-exec-5] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio2.war]
+15-Feb-2022 10:14:46.277 INFO [http-nio-8080-exec-5] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 10:14:47.453 INFO [http-nio-8080-exec-5] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio2.war] has finished in [1,987] ms
+15-Feb-2022 10:18:37.790 INFO [http-nio-8080-exec-12] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/comercio2]
+15-Feb-2022 10:18:37.814 INFO [http-nio-8080-exec-12] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio2.war]
+15-Feb-2022 10:18:38.674 INFO [http-nio-8080-exec-12] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 10:18:39.893 INFO [http-nio-8080-exec-12] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio2.war] has finished in [2,080] ms
+15-Feb-2022 10:22:06.464 INFO [http-nio-8080-exec-17] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/comercio2]
+15-Feb-2022 10:22:06.486 INFO [http-nio-8080-exec-17] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio2.war]
+15-Feb-2022 10:22:07.526 INFO [http-nio-8080-exec-17] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 10:22:08.814 INFO [http-nio-8080-exec-17] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio2.war] has finished in [2,328] ms
+15-Feb-2022 10:35:35.442 INFO [http-nio-8080-exec-25] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/comercio2]
+15-Feb-2022 10:35:35.466 INFO [http-nio-8080-exec-25] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio2.war]
+15-Feb-2022 10:35:36.550 INFO [http-nio-8080-exec-25] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2022 10:35:37.799 WARNING [http-nio-8080-exec-25] org.glassfish.jersey.internal.Errors.logErrors The following warnings have been detected: WARNING: The (sub)resource method add in org.software.ws.category.CategoryService contains empty path annotation.
+WARNING: The (sub)resource method getAll in org.software.ws.category.CategoryService contains empty path annotation.
+
+15-Feb-2022 10:35:37.803 INFO [http-nio-8080-exec-25] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/media/jacs/SEAGATE/dev/tomcat9058/webapps/comercio2.war] has finished in [2,337] ms
